@@ -3,6 +3,12 @@
 An AI-powered tool designed for clinical trial methodologists to automate the Risk of Bias 2 (RoB-2) assessment of randomized controlled trials. This application allows you to run the entire analysis locally using Ollama, eliminating the need to upload files to external servers or cloud-based APIs.
 
 
+## 🌐 Live Demo
+> **Note:** You still need to have **Ollama** running locally on your computer for the cloud interface to communicate with the models.
+
+[📊 Access the Web Interface](https://riskofbias2.streamlit.app/)
+
+
 ## 🚀 Key Features
 
 * **Local Processing:** Run your analysis offline. No need for OpenAI/Anthropic API keys or sending data to external servers.
