@@ -6,7 +6,7 @@ An AI-powered tool designed for clinical trial methodologists to automate the Ri
 ## 🌐 Online
 **Note:** You still need to have **Ollama** running locally on your computer for the cloud interface to communicate with the models.
 
-[📊 Access the Web Interface](https://riskofbias2.streamlit.app/)
+https://riskofbias2.streamlit.app/
 
 
 ## 🚀 Key Features
