@@ -25,7 +25,7 @@ Before running the app, ensure you have the following:
 
 **Ollama**: Download and install from ollama.com.
 
-**Local Models**: We recommend pulling models like llama3.1:8b or higher.
+**Local Models**: models like llama3.1:8b or higher.
 
 **Python 3.8+**
 
