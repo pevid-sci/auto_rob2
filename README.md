@@ -63,7 +63,7 @@ Install dependencies:
 
 ## 📊 Output Data Mapping
 
-The tool maps the expert 4-point scale (Definitely yes, Probably yes, Probably no, Definitely no) to the standard robvis categories:
+The tool follows the same pattern as robvis files.
 
 | Output | Category |
 | :--- | :--- |
