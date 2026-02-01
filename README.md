@@ -29,7 +29,9 @@ Before running the app, ensure you have the following:
 
 **Python 3.8+**
 
-## 📦 Installation (optional for running locally)
+## 📦 Setup for advanced users 
+
+*Optional: Only if you prefer to run the app offline*
 
 Clone this repository:
 
