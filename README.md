@@ -1,9 +1,9 @@
-## 💊 RoB-2 Automated Expert Ratings
+## 💊 RoB-2 Automated Ratings
 
 An AI-powered tool designed for systematic reviewers to automate the Risk of Bias 2 (RoB-2) assessment of randomized controlled trials. This application allows you to run the entire analysis locally using Ollama, eliminating the need to upload files to external servers or cloud-based APIs.
 
 
-## 🌐 Online preview
+## 🌐 Online Preview
 **Note:** You still need to have **Ollama** running locally on your computer for the cloud interface to communicate with the models.
 
 https://riskofbias2.streamlit.app/
