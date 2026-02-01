@@ -69,6 +69,6 @@ The prompting logic and criteria are adapted from: [Lai et al., 2024 - JAMA Netw
 
 ## 📲 Contact
 
-Feel free to send an email: pedro.vidor@ufrgs.br 
+Feel free to send an email: pedrobdlk@gmail.com
 
 *AI technologies were used in the development of this project.*
