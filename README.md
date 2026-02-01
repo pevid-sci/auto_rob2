@@ -29,7 +29,7 @@ Before running the app, ensure you have the following:
 
 **Python 3.8+**
 
-## 📦 Installation
+## 📦 Installation (optional for running locally)
 
 Clone this repository:
 
@@ -44,9 +44,13 @@ Install dependencies:
 
 1. Open the Ollama application.
 
-2. Launch the Streamlit interface:
+2. Access the website or launch the Streamlit interface.
 
        streamlit run rob2.py
+
+> Note for web users: If the website cannot find your local Ollama, you might need to set an environment variable to allow the connection. Run this in your terminal once:
+
+    $env:OLLAMA_ORIGINS="https://riskofbias2.streamlit.app"; ollama serve
 
 3. Use the sidebar to select your local model.
 
@@ -68,7 +72,7 @@ The tool maps the expert 4-point scale (Definitely yes, Probably yes, Probably n
 
 ## 📜 Credits
 
-The prompting logic and criteria are adapted from: Lai H, et al. "Evaluation of Large Language Models in Assessing Risk of Bias in Randomized Clinical Trials." JAMA Network Open.
+The prompting logic and criteria are adapted from: [Lai et al., 2024 - JAMA Network Open](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2818882)
 
 
 ## 📲 Contact
