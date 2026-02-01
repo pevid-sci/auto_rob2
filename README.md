@@ -1,6 +1,6 @@
 ## 💊 RoB-2 Automated Expert Ratings
 
-An AI-powered tool designed for clinical trial methodologists to automate the Risk of Bias 2 (RoB-2) assessment of randomized controlled trials. This application allows you to run the entire analysis locally using Ollama, eliminating the need to upload files to external servers or cloud-based APIs.
+An AI-powered tool designed for systematic reviewers to automate the Risk of Bias 2 (RoB-2) assessment of randomized controlled trials. This application allows you to run the entire analysis locally using Ollama, eliminating the need to upload files to external servers or cloud-based APIs.
 
 
 ## 🌐 Online
