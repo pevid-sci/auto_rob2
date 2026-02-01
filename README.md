@@ -61,16 +61,6 @@ Install dependencies:
 5. Download the results.
      
 
-## 📊 Output Data Mapping
-
-The tool follows the same pattern as robvis files.
-
-| Output | Category |
-| :--- | :--- |
-| **Definitely yes / Probably yes** | Low Risk |
-| **Definitely no / Probably no** | High Risk |
-| **Inconclusive / Other** | Some concerns |
-
 
 ## 📜 Credits
 
